@@ -1,4 +1,4 @@
-INTRODUCTION
+INTRODUCTION-
 A deep dive into sales data, aimed at extracting valuable
 insights to enhance strategic decision-making.
 
@@ -6,7 +6,7 @@ PURPOSE
 Analyze sales data to identify trends, top-selling products, and revenue metrics for
 business decision-making.
 
-DESCRIPTION
+DESCRIPTION-
 In this project, you will dive into a large sales dataset to extract valuable insights. You
 will explore sales trends over time, identify the best-selling products, calculate revenue
 metrics such as total sales and profit margins, and create visualizations to present your
@@ -26,7 +26,7 @@ COLUMN DESCRIPTION FOR SALES DATA ANALYSIS:
 • CITY
 • HOUR
 
-RESULT
+RESULT-
 To find the revenue metrics:
 • Revenue: 34.5M 
 • Sales quantity: 209k
