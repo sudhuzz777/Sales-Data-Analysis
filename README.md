@@ -2,7 +2,7 @@ INTRODUCTION-
 A deep dive into sales data, aimed at extracting valuable
 insights to enhance strategic decision-making.
 
-PURPOSE
+PURPOSE-
 Analyze sales data to identify trends, top-selling products, and revenue metrics for
 business decision-making.
 
